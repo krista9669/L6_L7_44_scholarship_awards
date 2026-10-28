@@ -1,6 +1,9 @@
 # L6_L7_44 — Scholarship Awards
 
-Lab 6: Code and Branch Coverage
+**Name:** KRISHITHA KANKANALA  
+**SRN:** PES2UG24CS234
+
+## Lab 6: Code and Branch Coverage
 
 ## About
 
