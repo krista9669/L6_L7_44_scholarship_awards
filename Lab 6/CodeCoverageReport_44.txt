@@ -1,8 +1,0 @@
-coverage run --source=scholarship_awards -m pytest CodeCoverageTest_44_application.py -q
-9 passed in 0.23s
-
-Name                    Stmts   Miss  Cover   Missing
------------------------------------------------------
-scholarship_awards.py      37      2    95%   22, 30
------------------------------------------------------
-TOTAL                      37      2    95%
