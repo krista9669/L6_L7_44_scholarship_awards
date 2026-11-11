@@ -1,12 +1,5 @@
 # Lab 6: Code and Branch Coverage
 
-## Student Details
-
-**Name:** KRISHITHA KANKANALA  
-**SRN:** PES2UG24CS234
-
----
-
 ## Overview
 
 This lab focuses on writing and improving test cases for a Python scholarship award system. The goal is to achieve strong code and branch coverage by validating the core business rules in the module.
